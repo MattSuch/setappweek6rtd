@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   Usage
-   Used Systems
+   usage
+   used-systems
