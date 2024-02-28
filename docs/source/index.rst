@@ -5,6 +5,7 @@ Speakeasy is a mobile application that specalises in teaching the user spanish t
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
+alos look at :doc:`used-systems`
 
 .. note::
 
